@@ -1,4 +1,6 @@
 module.exports = [
+
+
   {
     name: 'bessie',
     cool_factor: 3,
