@@ -32,10 +32,6 @@ describe('app routes', () => {
 
       const expectation = 'Hello';
 
-      // const data = await fakeRequest(app);
-      //   // .get('/animals')
-      //   // .expect('Content-Type', /json/)
-      //   // .expect(200);
 
       expect('Hello').toEqual(expectation);
     });
